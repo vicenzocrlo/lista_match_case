@@ -1,8 +1,9 @@
 while True:
     menu = """ \n
-    ==========Sistema de Login========== 
+    ==========SISTEMA DE LOGIN========== 
 
-    Digite o seu nome de usuário:
+    Digite o seu nome de usuário com base nos listados abaixo
+    
     "Admin"
     "Professor"
     "Aluno"
